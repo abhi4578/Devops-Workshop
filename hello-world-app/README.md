@@ -1,3 +1,8 @@
+## Pre-requisites
+1. Please Install all necessary [pre-requisite](https://github.com/abhi4578/IUDX-Devops-Workshop#pre-requisites)
+2. git clone this repo with following command:
+
+  ``` git clone https://github.com/abhi4578/IUDX-Devops-Workshop.git```
 # Hello World Docker hands on
 
 This directory contains a simple hello world web application and associated 
