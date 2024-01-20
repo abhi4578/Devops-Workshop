@@ -20,7 +20,7 @@
 4. If Ubuntu cannot be installed as full fledged OS
     - On windows 
         - Install WSL2 and install Ubuntu . Refer [here](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#1-overview)
-        - Install Docker Desktop with WSL2 as backend. Refer [here](https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user)
+        - Install Docker Desktop with WSL2 as backend. Refer [here](https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user](https://docs.docker.com/desktop/install/windows-install/)
      - On Mac OS
          - Install Docker Desktop on Mac. Refer [here](https://docs.docker.com/desktop/install/mac-install/)
          - Install Git
