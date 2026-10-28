@@ -30,6 +30,11 @@ This directory contains a simple hello world web application and associated
 ```
 curl http://localhost:8000
 ```
+It should give following response 
+
+```
+Hello World I am <your-public-ip>
+```
 4. Stopping docker container using docker cli
 ``` docker stop hello-world ```
 
