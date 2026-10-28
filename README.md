@@ -27,3 +27,7 @@
 5. On  full fledged Ubuntu or WSL Ubuntu, install from default packages. Refer [here](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-20-04#installing-git-with-default-packages).
 6. On mac, install git by following on of the options in [this](https://git-scm.com/download/mac) guide
 Create a docker hub account. Refer [here](https://docs.docker.com/docker-id/) for the details
+
+## Workshop 
+
+Once prerequisites setup is done, go [here](./hello-world-app/README.md) to run your first app using docker
