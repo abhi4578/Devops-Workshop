@@ -15,17 +15,35 @@ This directory contains a simple hello world web application and associated
 
 
 2. Run docker container using docker cli
-``` docker run -p 8000:8000 --name hello-world -d <dockerhub-username>/hello-world:1.0 ```
+``` docker run -p 8000:8000 --name hello-world -d hello-world:1.0 ```
 
-3. Stopping docker container using docker cli
+3. Check if the app is working, by making http call
+
+```
+curl http://localhost:8000
+```
+4. Stopping docker container using docker cli
 ``` docker stop hello-world ```
 
-4. Run docker container using docker compose file
+## Running via Docker compose
+1. Run docker container using docker compose file
 ```docker compose up ```
 
-5. Bring down the containers using docker compose 
+2. Bring down the containers using docker compose 
    ```docker compose down```
+   
+## Pushing docker image to your own dockerhub 
 
-6. Tag and push image to registry
-```docker build -t <dockerhub-username>/hello-world:1.0```
+1. Create a dockerhub account https://app.docker.com/signup
+2. Login to your dockerhub account 
+```
+docker login 
+```
+2. Tag and push image to registry
+
+```
+docker build -t <dockerhub-username>/hello-world:1.0
+docker push <dockerhub-username>/hello-world:1.0
+```
+
 
