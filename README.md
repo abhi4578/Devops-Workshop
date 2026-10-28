@@ -1,4 +1,4 @@
-# IUDX-Devops-Workshop
+# Devops-Workshop
 
 ## Pre-requisites
 
