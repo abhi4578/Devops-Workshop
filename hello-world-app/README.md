@@ -2,7 +2,10 @@
 1. Please Install all necessary [pre-requisite](https://github.com/abhi4578/IUDX-Devops-Workshop#pre-requisites)
 2. git clone this repo with following command:
 
-  ``` git clone https://github.com/abhi4578/Devops-Workshop.git```
+  ``` 
+  git clone https://github.com/abhi4578/Devops-Workshop.git
+  ```
+  
 3. Change directory to hello-world-app
 
 ```
