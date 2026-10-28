@@ -2,7 +2,12 @@
 1. Please Install all necessary [pre-requisite](https://github.com/abhi4578/IUDX-Devops-Workshop#pre-requisites)
 2. git clone this repo with following command:
 
-  ``` git clone https://github.com/abhi4578/IUDX-Devops-Workshop.git```
+  ``` git clone https://github.com/abhi4578/Devops-Workshop.git```
+3. Change directory to hello-world-app
+
+```
+cd Devops-Workshop/hello-world-app/
+```
 # Hello World Docker hands on
 
 This directory contains a simple hello world web application and associated 
